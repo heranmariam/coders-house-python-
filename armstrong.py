@@ -1,4 +1,4 @@
-num=int(input("Enter any number"))
+num=int(input("Enter any num"))
 k=num
 arm=0
 while num>0:
