@@ -1,4 +1,4 @@
-n=int(input("enter limit"))
+n=int(input("enter the limit"))
 k=n
 prod=1
 while n>=1:
